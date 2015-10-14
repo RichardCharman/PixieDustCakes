@@ -1,0 +1,106 @@
+body{
+  font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+  font-size:12px;
+  color:#ffffff;
+  background-color:#795f48;
+	background-image:url('images/polka.jpg');
+  background-repeat:repeat;
+	margin:0px 0px; padding:0px;
+	text-align:center;
+}
+
+#Content {
+	width:800px;
+	margin:100px auto;
+	text-align:left;
+	padding:0px;
+	border:0px
+}
+
+a:link, a:visited, a:hover{color:#795f48; text-decoration:none;}
+
+ p.c9 {font-size: 110%; text-align: right}
+ div.c8 {float: right; width: 50px;}
+ span.c7 {color: #FFFFFF; font-size: 110%}
+ div.c6 {float: left; width: 50px;}
+ span.c5 {font-size: 70%}
+ span.c4 {color: #000000; font-size: 70%}
+ span.c3 {color: #000000}
+ div.c2 {text-align: center}
+ div.c1 {position: fixed; bottom: 290px; right: 40px;}
+
+.menu {
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  background-color: #75604b;
+  border-radius: 25px;
+  border-color: #fd3484;
+  border-style: solid;
+  width: 25%;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+  margin-right: 3px;
+}
+
+.main {
+  padding: 5px;
+  background-color: #75604b;
+  border-radius: 25px;
+  border-color: #fd3484;
+  border-style: solid;
+  display: inline-block;
+  width: 70%;
+  text-align: center;
+}
+
+.bottom {
+  margin-top: 15px;
+  padding: 20px;
+  font-size: 18px;
+  background-color: #fe8dc5;
+  border-radius: 25px;
+  border-color: #fd3484;
+  border-style: solid;
+  width: 95%;
+  color: #ffffff;
+  text-align: center;
+  height: 50px;
+}
+
+#facebook {
+  position: fixed;
+  bottom: 290px;
+  right: 40px;
+}
+
+#facebookheart {
+  width: 40px;
+  border 0;
+}
+
+#flashlogo {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+#container {
+  vertical-align: top;
+}
+
+#bottombox {
+  display: inline-block;
+  float: left;
+  margin-right: 5px;
+  text-align: left;
+}
+
+#addressbox {
+  display: inline-block;
+  float: right;
+  margin-left: 5px;
+  font-size: 12px;
+  text-align: right;
+}
